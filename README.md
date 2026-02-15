@@ -68,10 +68,10 @@ Filters:
 ## 📷 Dashboard Screenshots
 
 ### Customer Dashboard
-![Customer Dashboard](Customer_Analysis.png)
+![Customer Analysis](Customer_Analysis.png)
 
 ### Transaction Dashboard
-![Transaction Dashboard](Transaction_Analysis.png)
+![Transaction Analysis](Transaction_Analysis.png)
 
 ---
 
