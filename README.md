@@ -65,16 +65,6 @@ Filters:
 
 ---
 
-## 📷 Dashboard Screenshots
-
-### Customer Dashboard
-![Customer Analysis](Customer Analysis.png)
-
-### Transaction Dashboard
-![Transaction Analysis](Transaction Analysis.png)
-
----
-
 ## 🚀 How to Use
 
 1. Download the .pbix file
